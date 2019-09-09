@@ -7,16 +7,11 @@ This is the code used in the experiments conducted in the IB Extended Essay "To 
 ```
   1. MainRunner.java
   
-  2. Quick Sort:
+  2. Quick Sort / Merge Sort / Insertion Sort:
     a. Recursive
       i. Framework
       ii. Thread
-  2. Merge Sort:
-    a. Recursive
-      i. Framework
-      ii. Thread
-  2. Insertion Sort:
-    a. Recursive
+    b. Nonrecursive
       i. Framework
       ii. Thread
   
