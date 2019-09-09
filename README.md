@@ -5,12 +5,15 @@ This is the code used in the experiments conducted in the IB Extended Essay "To 
 
 # Organization
   1. MainRunner.java
+  
   2. Quick Sort:
     a. NonRecursive.java
     b. NonRecursive_Thread.java
+    
   3. Merge Sort:
     a. NonRecursive.java
     b. NonRecursive_Thread.java
+    
   4. Insertion Sort:
     a. NonRecursive.java
     b. NonRecursive_Thread.java
