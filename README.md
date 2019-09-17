@@ -1,7 +1,9 @@
 # Multithreading-Research-Paper-Code
 
 # Description
-This is the code used in the experiments conducted in the IB Extended Essay "To what extent does multi-threading affect the performance of recursive sorts more than that of non-recursive sorts?"
+This is the code used in the experiments conducted in the IB Extended Essay "To what extent does multi-threading affect the performance of recursive sorts more than that of non-recursive sorts?" 
+
+The paper can be accessed here: https://drive.google.com/open?id=11n9awGSDj8i7yEdHDkNCUT5_lFdHJDsK
 
 # Organization
 ```
